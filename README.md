@@ -1,5 +1,3 @@
-# Premium WordPress Theme Development Guidelines PHP 8.4 WordPress Latest
-
 ## Premium WordPress Theme Development Guidelines (PHP 8.4+, WordPress Latest)
 
 This document outlines all the necessary standards and best practices to develop a premium WordPress theme that is secure, performance-optimized, ThemeForest-ready, and compatible with the latest versions of PHP (8.4+) and WordPress.
