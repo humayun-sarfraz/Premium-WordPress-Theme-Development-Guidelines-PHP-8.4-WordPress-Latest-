@@ -219,6 +219,4 @@ add_action( 'wp_enqueue_scripts', 'mytheme_enqueue_assets' );
 * Browser Compatibility: Chrome, Firefox, Safari, Edge
 * Mobile Responsiveness
 
----
-
-End of Guidelines
+  
