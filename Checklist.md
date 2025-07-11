@@ -89,5 +89,3 @@ This file provides a final checklist to follow before submitting your theme to T
 ---
 
 This checklist ensures your theme is production-ready, user-friendly, and passes both technical and visual inspections during review.
-
-End of Checklist
